@@ -1,4 +1,4 @@
-# First-Bank-Marketing-Campaign-Analytics-
+# First-Bank-Marketing-Campaign-Analysis
 An end-to-end data analytics project analyzing customer demographic and behavioral patterns to optimize term deposit subscription rates for First Bank. This project translates raw marketing campaign data into actionable business recommendations and an interactive visual dashboard.
 ## Project Overview
 The objective of this project is to evaluate the effectiveness of First Bank's direct marketing campaigns aimed at driving subscriptions to term deposit accounts. By analyzing customer profiles, historical campaign results, contact channels, and seasonal patterns, this project identifies primary drivers of customer conversion to maximize future ROI.
