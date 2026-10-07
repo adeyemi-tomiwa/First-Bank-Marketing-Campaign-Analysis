@@ -43,7 +43,7 @@ Structured Balance Tiers (Low, Medium, High) to measure wealth distribution agai
 
 Segmented Engagement Levels based on call interaction and frequency.
 
-##💡 Key Findings & Insights
+## Key Findings & Insights
 
 ### Call Duration as Primary Conversion Driver:
 
